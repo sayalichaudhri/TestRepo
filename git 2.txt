@@ -5,3 +5,5 @@ Selenium is a suite of tools for automated web testing.  It is composed of
 Selenium IDE (Integrated Development Environment) :  It is a tool for recording and playing back.  It is a firefox plugin
 WebDriver and RC:  It provide the APIs for a variety of languages like Java, .NET, PHP, etc. With most of the browsers Webdriver and RC works.
 Grid: With the help of Grid you can distribute tests on multiple machines so that test can be run parallel which helps in cutting down the time required for running in browser test suites
+
+Selenium Grid : Cross Browser Testing.
