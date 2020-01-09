@@ -7,3 +7,6 @@ WebDriver and RC:  It provide the APIs for a variety of languages like Java, .NE
 Grid: With the help of Grid you can distribute tests on multiple machines so that test can be run parallel which helps in cutting down the time required for running in browser test suites
 
 Selenium Grid : Cross Browser Testing.
+
+2]Web Driver:
+ this is used for automation testing of web application.
